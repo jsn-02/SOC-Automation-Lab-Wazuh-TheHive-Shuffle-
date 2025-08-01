@@ -1,1 +1,2 @@
-# SOC-Automation-Lab-Wazuh-TheHive-Shuffle-
+# SOC Automation Lab (Wazuh, TheHive, Shuffle)
+
